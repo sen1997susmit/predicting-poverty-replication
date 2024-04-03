@@ -125,5 +125,4 @@ I highlight most of these in the code with comments, but for the purposes of doc
 
 3. Jean et al. uses data from 2013, three years prior to the year I use. Also, my replication doesn't use all the same countries. Lastly, they don't use VIIRS data but rather a different nightlights annual composite (still from the NOAA) that was discontinued after 2013.
 
-# Contact
-You can reach me via email at jatinm2@illinois.edu
+
